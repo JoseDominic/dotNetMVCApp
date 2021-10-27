@@ -78,7 +78,6 @@ C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\System.Ne
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\System.Web.Http.xml
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\System.Web.Http.WebHost.xml
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\obj\Debug\WebAppDay22Ex1.csproj.AssemblyReference.cache
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\obj\Debug\WebAppDay22Ex1.csproj.CoreCompileInputs.cache
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\obj\Debug\WebAppDay22Ex1.dll
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\obj\Debug\WebAppDay22Ex1.pdb
@@ -121,3 +120,4 @@ C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\ko\System
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\ru\System.Spatial.resources.dll
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\zh-Hans\System.Spatial.resources.dll
 C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\jdominic\source\repos\Day22\WebAppDay22Ex1\WebAppDay22Ex1\obj\Debug\WebAppDay22Ex1.csproj.AssemblyReference.cache
