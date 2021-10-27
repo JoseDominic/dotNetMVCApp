@@ -13,8 +13,14 @@ namespace WebAppDay22Ex1.Controllers
         // GET: EmployeeMVC
         public ActionResult Index()
         {
+           
+            return View();
+        }
+
+        public ActionResult Partial()
+        {
             EmpDbContext db = new EmpDbContext();
-            return View(db.Emps.ToList());
+            return PartialView("OurPView", db.Emps.ToList());
         }
     }
 }

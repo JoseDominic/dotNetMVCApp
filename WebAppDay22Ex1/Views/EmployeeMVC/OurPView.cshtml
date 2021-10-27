@@ -1,0 +1,33 @@
+﻿@model IEnumerable<WebAppDay22Ex1.Models.Emp>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.EName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EDesignation)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.EDOJ)
+        </th>
+        
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.EName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EDesignation)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.EDOJ)
+        </td>
+        
+    </tr>
+}
+
+</table>
